@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Virtual Stylist AI",
+  "description": "An AI-powered fashion assistant that generates complete casual, business, and night-out outfits based on your uploaded clothing items using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
